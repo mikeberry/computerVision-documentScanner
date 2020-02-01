@@ -12,3 +12,5 @@ The following assumption about the environment were given:
 1. The document is light and the background is dark
 2. The document is fully contained in the image
 3. The document occupies a large portion of the image
+
+This project was part of the official openCV certification course https://opencv.org/courses
